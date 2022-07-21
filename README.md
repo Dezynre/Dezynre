@@ -21,10 +21,15 @@ I am very passionate about frontend web development because it is visual. You im
 
 <section>
   <img src="./html.svg" alt="html5 logo" width="45px">
+  <br>
   <img src="./css.svg" alt="css logo" width="45px">
+  <br>
   <img src="./javascript.svg" alt="javscript logo" width="45px">
+  <br>
   <img src="./react.svg" alt="react logo" width="45px">
+  <br>
   <img src="./python.svg" alt="python logo" width="45px">
+  <br>
 </section>
 
 ## Fun Facts about me
