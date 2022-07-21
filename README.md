@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Chacha Ian A.K.A The JavaScript guy. I live in Nairobi, the capital of Kenya.
+Hi there 👋. My name is Chacha Ian A.K.A The JavaScript guy. I live in Nairobi, the capital of Kenya.
 
 ## About
 
