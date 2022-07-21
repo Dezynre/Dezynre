@@ -21,9 +21,10 @@ I am very passionate about frontend web development because it is visual. You im
 
 
 ## Fun Facts about me
-- The first line of code that I ever wrote was in C++
-- I am introverted
-- I am single
+- 🛶 The first line of code that I ever wrote was in C++
+- 🎩 I write code everyday
+- 🧵 I am introverted
+- 🎨 I am single
 
 ## Social 
 
@@ -38,6 +39,8 @@ I am very passionate about frontend web development because it is visual. You im
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+I am more active on twitter, so you can reach out to me easily when you message me directly on twitter.
 
 ## How to reach me: 
 - 📌 WhatsApp: +254700680002
