@@ -6,7 +6,7 @@ I am very passionate about frontend web development because it is visual. You im
 
 - 🌱 I’m currently learning Web3
 - 👯 I’m looking to collaborate on interesting open source projects
-- 🤔 I’m looking for help with ...
+- 🤔 I am searching for a fronted role
 - 💬 Ask me about HTML, CSS and JavaScript
 
 
@@ -40,7 +40,6 @@ I am very passionate about frontend web development because it is visual. You im
 </div>
 
 ## How to reach me: 
-
-WhatsApp: +254700680002
-Email: chachaian1997@gmail.com
+- 📌 WhatsApp: +254700680002
+- 📌 Email: chachaian1997@gmail.com
 
